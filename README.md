@@ -1,6 +1,6 @@
 # 🚀 LAUNCH! Solana - Comprehensive Toolkit for Meme Coin Creation
 
-![solana-img](https://github.com/user-attachments/assets/d516ab8a-29d0-474f-bf85-a689c1412191)
+![Untitled-1](https://github.com/user-attachments/assets/96d6a947-9538-4c90-adb3-8bff58560b2d)
 
 **LAUNCH! Solana** is your all-in-one solution for **Solana meme coin development** — a comprehensive toolkit to **create tokens on Solana**, configure them, and deploy with ease. Whether you're planning to **launch a meme coin on Solana**, set up **Raydium liquidity**, or prepare for a **Solana meme coin airdrop**, this tool is built for speed, flexibility, and results.
 
